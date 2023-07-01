@@ -1,0 +1,35 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* background-color: rgb(235, 245, 242); */
+}
+.page {
+  /* margin-left: 300px; */
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  /* margin-left: 300px;
+  margin-right: 300px; */
+}
+button {
+  margin-top: 10px;
+}
+.items {
+  margin-top: 40px;
+  margin-left: 300px;
+}
+.table{
+    /* margin-left: 300px;
+    margin-right: 00px;/ */
+}
+.aniket{
+  margin-left: 200px;
+    margin-right: 200px;
+    /* background-color: aquamarine; */
+}
